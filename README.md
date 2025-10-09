@@ -6,6 +6,11 @@
 
 
 ## 🚀 Stack
+### Languages
+- Python (Backend)
+- HTML/CSS/JS (Frontend)
+
+### Components
 <img width="837" height="569" alt="image" src="https://github.com/user-attachments/assets/017c5bef-1205-4a4f-bfca-63029afccb0e" />
 
 

@@ -1,5 +1,6 @@
 # Incident/Hazard Prediction System 🚧 🪄
 
+<br>
 
 <img width="811" height="152" alt="image" src="https://github.com/user-attachments/assets/42597b1d-4e45-4f70-8013-292a8108d54d" />
 

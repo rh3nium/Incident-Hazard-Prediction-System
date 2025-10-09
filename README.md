@@ -2,7 +2,7 @@
 
 <img width="837" height="225" alt="image" src="https://github.com/user-attachments/assets/362a43c3-dc82-4cac-95bb-06a81bedbe9a" />
 
-## Beacon : A real-time incident and hazard prediction and narrative generation system which utilizes Python (T5 transformer model) and a Raspberry Pi.
+### Beacon : A real-time incident and hazard prediction and narrative generation system which utilizes Python (T5 transformer model) and a Raspberry Pi.
 
 
 ## 🚀 Stack

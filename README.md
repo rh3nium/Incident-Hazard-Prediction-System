@@ -1,6 +1,6 @@
 # Incident/Hazard Prediction System 🚧 🪄
 
-### ResQ : A real-time incident and hazard prediction and narrative generation system which utilizes Python (T5 transformer model) and a Raspberry Pi with cmaera module.
+### ResQ : A real-time incident and hazard prediction and narrative generation system which utilizes Python (T5 transformer model) and a Raspberry Pi 4B with camera module.
 
 ![logo](https://github.com/user-attachments/assets/da6cdbd8-4140-4ca9-b681-c9625355719a)
 
